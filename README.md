@@ -78,8 +78,44 @@ Para utilizar la aplicación siga los siguientes pasos de instalación:
 </ol>
 
 
-<h2>Funcionalidad</h2>
+<h2>Galería</h2>
+<p><strong>Pantalla principal</strong></p>
+<p align="Center">
+<kbd>
+<img src="https://github.com/CMZhn/Hotel_Alura_ONE_G5/blob/main/Readme_Recursos/01Principal.JPG" height="300">
+</kbd></p>
 
+<p><strong>Login</strong></p>
+<p align="Center">
+<kbd>
+<img src="https://github.com/CMZhn/Hotel_Alura_ONE_G5/blob/main/Readme_Recursos/02Longin.JPG" height="300">
+</kbd></p>
+<p><strong>Creación de Reservas</strong></p>
+<p align="Center">
+<kbd>
+<img src="https://github.com/CMZhn/Hotel_Alura_ONE_G5/blob/main/Readme_Recursos/04BuscarDisponibilidad.JPG" height="300">
+</kbd></p>
+<p align="Center">
+<kbd><img src="https://github.com/CMZhn/Hotel_Alura_ONE_G5/blob/main/Readme_Recursos/05AsignarHuespedes.JPG" height="300">
+</kbd></p>
+<p><strong>Búsqueda y edicion de Reservas</strong></p>
+<p align="Center">
+<kbd>
+<img src="https://github.com/CMZhn/Hotel_Alura_ONE_G5/blob/main/Readme_Recursos/06BusquedaReservas.JPG" height="300">
+</kbd></p>
+<p align="Center">
+<kbd>
+<img src="https://github.com/CMZhn/Hotel_Alura_ONE_G5/blob/main/Readme_Recursos/07EdicionReservas.JPG" height="300">
+</kbd></p>
+<p><strong>Búsqueda y edicion de Huespedes</strong></p>
+<p align="Center">
+<kbd>
+<img src="https://github.com/CMZhn/Hotel_Alura_ONE_G5/blob/main/Readme_Recursos/08BuscarHuespedes.JPG" height="300">
+</kbd></p>
+<p align="Center">
+<kbd>
+<img src="https://github.com/CMZhn/Hotel_Alura_ONE_G5/blob/main/Readme_Recursos/09EdicionHuesped.JPG" height="300">
+</kbd></p>
 
 <h2>Autor</h2>
 <p align="center"><strong><a href="https://github.com/CMZhn"><em>Carlos Melgar</em></a></strong></p>
